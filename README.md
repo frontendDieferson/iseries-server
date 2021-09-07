@@ -1,3 +1,3 @@
-# Servidor para a Aplicação Minhas Séries - DevPleno
+# Servidor para a Aplicação iSeries
 
-Version: 2.0
+
